@@ -1,4 +1,4 @@
-function test()
+function testbutton()
 {
 	var xhr=new XMLHttpRequest();
 	xhr.open("GET","./test.txt");
