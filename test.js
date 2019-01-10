@@ -5,5 +5,6 @@ function test()
 	xhr.onload=function(){
 	    console.log(xhr.responseText);
 	}
+	console.log("test");
 	//xhr.send();
 }
